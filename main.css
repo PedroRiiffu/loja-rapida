@@ -14,7 +14,9 @@
 .container h2 {
     border-bottom: 2px;
     margin-bottom: 25px;
+    border-bottom: 1px solid black;
 }
+
 
 header .container,
 footer .container {
@@ -84,6 +86,7 @@ section {
 section h2 {
     text-align: center;
     margin-bottom: 30px;
+    border-bottom: 1px solid black;
 }
 
 .artigos {
